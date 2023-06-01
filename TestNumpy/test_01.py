@@ -1,6 +1,6 @@
 import numpy as n
 
 
-a = n.apythonrange(1, 5)
+a = n.arange(1, 5)
 print(a)
 
